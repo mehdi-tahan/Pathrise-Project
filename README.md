@@ -28,9 +28,13 @@ Analyzing feature importance scores to understand which factors are most influen
 To replicate our analysis and run the predictive models:
 
 1- Clone the Repository: Clone this GitHub repository to your local machine.
+
 2- Install Dependencies: Install the required Python libraries specified in the requirements.txt file.
+
 3- Explore the Notebooks: Explore the Jupyter notebooks in the notebooks directory, which contain the code for data preprocessing, model training, and visualization.
+
 4- Run the Code: Execute the code cells in the notebooks to train the predictive models and generate visualizations.
+
 5- Interpret Results: Analyze the model outputs and visualizations to derive insights into Pathrise fellow placement outcomes and timeframes.
 
 ## License
