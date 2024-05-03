@@ -9,6 +9,7 @@ The dataset used in this project contains anonymized data on Pathrise fellows, i
 ### We explore two types of predictive models:
 
 1- Linear Regression: We use linear regression to predict the expected time until placement for Pathrise fellows. By analyzing the relationship between input features and placement duration, we aim to provide insights into how long a fellow can expect to wait before securing a job.
+
 2- Classification Model: In addition to predicting placement duration, we develop a classification model to predict whether a fellow will be placed at a company. By classifying fellows into placed and not-placed categories based on their features, we aim to identify factors that contribute to successful job placement.
 
 ## Visualization
