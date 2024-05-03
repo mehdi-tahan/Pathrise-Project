@@ -1,4 +1,4 @@
-<span style="color: blue;">Pathrise Job Placement Prediction Project</span>
+<span style="color: yellow;">Pathrise Job Placement Prediction Project</span>
 # Pathrise Job Placement Prediction Project
 ## Overview
 This project aims to predict whether a Pathrise fellow will ultimately be placed at a company and estimate the time until placement. Pathrise is a career accelerator that helps individuals land their dream job in tech through mentorship, training, and job search support. By analyzing historical data on Pathrise fellows, we build predictive models to derive insights into placement outcomes and timeframes.
